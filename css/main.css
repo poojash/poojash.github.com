@@ -7,7 +7,7 @@
 }
 
 body {
-	background: url(../../template/images/bg.png);
+	background: url(../images/bg.png);
 
 	-ms-overflow-x: hidden;
 	overflow-x: hidden;
@@ -152,7 +152,7 @@ a,h1,h2,h3,h4,h5,h6,p {
 /*EOD IMAGES STYLING*/
 /*ABOUT STYLING*/
 #about {
-	background: url(../../template/images/sectionbg.png);
+	background: url(../images/sectionbg.png);
 	text-align: center;
 	position: relative;
 	overflow: hidden;
@@ -194,7 +194,7 @@ a,h1,h2,h3,h4,h5,h6,p {
 .lace {
 	width: 100%;
 	height: 110px;
-	background: url(../../template/images/lace.png) repeat-x;
+	background: url(../images/lace.png) repeat-x;
 	z-index: 1;
 	position: relative;
 }
@@ -366,7 +366,7 @@ a,h1,h2,h3,h4,h5,h6,p {
 /*EOD SKILLS STYLING*/
 /*FORM STYLING*/
 #contact {
-	background: url(../../template/images/sectionbg.png);
+	background: url(../images/sectionbg.png);
 	text-align: center;
 	position: relative;
 }
@@ -399,7 +399,7 @@ label {
 }
 
 .text,.textarea {
-	background: url(../../template/images/textbg.png);
+	background: url(../images/textbg.png);
 	border: 1px dotted red;
 	width: 200px;
 
